@@ -1,0 +1,21 @@
+id_venda,data,cliente,cidade,produto,categoria,quantidade,preco_unitario
+1,2026-07-01,Ana,São Paulo,Mouse,Informática,2,80
+2,2026-07-01,Carlos,Rio de Janeiro,Teclado,Informática,1,150
+3,2026-07-02,Julia,Belo Horizonte,Monitor,Informática,1,900
+4,2026-07-02,Pedro,Curitiba,Cadeira Gamer,Móveis,1,1200
+5,2026-07-03,Marcos,São Paulo,Notebook,Informática,1,4200
+6,2026-07-03,Beatriz,Recife,Fone Bluetooth,Áudio,2,250
+7,2026-07-04,Lucas,Fortaleza,Mouse,Informática,3,80
+8,2026-07-04,Sofia,Salvador,Notebook,Informática,1,4300
+9,2026-07-05,Gabriel,Curitiba,Monitor,Informática,2,950
+10,2026-07-05,Isabela,São Paulo,Teclado,Informática,2,180
+11,2026-07-06,Rafael,Rio de Janeiro,Cadeira Gamer,Móveis,1,1250
+12,2026-07-06,Laura,Brasília,Webcam,Informática,2,220
+13,2026-07-07,Bruno,Porto Alegre,Mouse,Informática,1,85
+14,2026-07-07,Camila,Recife,Fone Bluetooth,Áudio,1,260
+15,2026-07-08,Daniel,Curitiba,Notebook,Informática,1,4100
+16,2026-07-08,Amanda,São Paulo,Monitor,Informática,1,920
+17,2026-07-09,Henrique,Salvador,Webcam,Informática,2,210
+18,2026-07-09,Mariana,Fortaleza,Mouse,Informática,4,75
+19,2026-07-10,Felipe,Rio de Janeiro,Teclado,Informática,3,170
+20,2026-07-10,Patrícia,Belo Horizonte,Cadeira Gamer,Móveis,1,1180
